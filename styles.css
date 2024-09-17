@@ -1,0 +1,178 @@
+.body {
+    display: flex;
+}
+
+.section3 {
+    width: 1200px;
+}
+
+.top {
+    display: flex;
+}
+
+.box1 img {
+    width: 240px;
+}
+
+.box1 {
+    flex-grow: 1;
+}
+
+.box2 {
+    flex-grow: 1;
+}
+
+.name {
+    padding-left: 1em;
+    flex-grow: 1;
+}
+
+.box {
+    border: solid black;
+}
+
+.section2 {
+    padding: 1em;
+}
+
+.ploy {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ploy2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ed {
+    display: flex;
+    justify-content: space-between;
+}
+
+.smallbox {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.Aphoto {
+    display: inline-block;
+
+}
+
+.smallbox2 {
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    display: inline-block;
+}
+
+.Aillu {
+    display: inline-block;
+}
+
+.smallbox3 {
+    height: 10px;
+    width: 10px;
+    background-color: teal;
+    display: inline-block;
+}
+
+.Adesign {
+    display: inline-block;
+}
+
+.smallbox4 {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.Cdesign {
+    display: inline-block;
+}
+
+.smallbox5 {
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    display: inline-block;
+}
+
+.max {
+    display: inline-block;
+}
+
+.skill-bar {
+    background-color: blue;
+    width: 90%;
+    color: aliceblue;
+    text-align: right;
+}
+
+.skill-bar2 {
+    background-color: green;
+    width: 80%;
+    color: antiquewhite;
+    text-align: right;
+}
+
+.skill-bar3 {
+    background-color: teal;
+    width: 90%;
+    color: antiquewhite;
+    text-align: right;
+}
+
+.skill-bar4 {
+    background-color: yellow;
+    width: 70%;
+    color: black;
+    text-align: right;
+}
+
+.skill-bar5 {
+    background-color: red;
+    width: 60%;
+    color: antiquewhite;
+    text-align: right;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+
+.circle-red {
+    background-color: red;
+}
+
+.circle-green {
+    background-color: green
+}
+
+.circle-blue {
+    background-color: aqua;
+}
+
+.circle-yellow {
+    background-color: yellow;
+}
+
+.background-box {
+    width: 100%;
+    background-color: grey;
+}
+
+.main-container {
+    background-color: blanchedalmond;
+}
+
+.dates {
+    width: 100%;
+    background-color: grey;
+}
